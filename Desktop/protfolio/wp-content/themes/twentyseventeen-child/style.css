@@ -1,0 +1,45 @@
+/*
+Theme Name: Twenty Seventeen Child Theme
+Theme URI: 
+Description: A child theme of Twenty Seventeen
+Author: <your name>
+Author URI: <your website>
+Template: twentyseventeen
+Version: 0.1.0
+*/
+
+@import url("../twentyseventeen/style.css");
+.ep_entry-content {
+/*     float: left; */
+    font-size: 15px;
+    line-height: 20px;
+    text-align: justify;
+    width: 70%;
+    padding-top: 20px;
+	  margin-left:20px;
+	float: center;
+}
+.ep_title {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+	  margin-left:20px;
+	  color:white;
+	  float:center;
+	  background-color:  black;
+	  
+}
+.assistive-text{
+	font-size: 20px;
+	color:white;
+	background-color:  red;
+	  
+	
+}
+.single-featured-image-header{
+	height:600px;
+	width:700px;
+	float:center;
+}
+
+
